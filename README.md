@@ -15,3 +15,7 @@ CS 120B covers the essential concepts and practices for designing and programmin
 - **Synthesis Tools**: Using tools for the synthesis and design of digital circuits.
 - **Microcontrollers**: Learning about microcontrollers and their role in embedded systems.
 - **Developing Working Embedded Systems**: Gaining hands-on experience in developing and testing fully functional embedded systems.
+
+## Disclaimer
+
+This repository is intended for personal documentation purposes only. I do not advocate academic dishonesty.
